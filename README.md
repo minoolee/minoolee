@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
 
 - 📫 How to reach me **yaqoubiamina@gmail.com**
 
