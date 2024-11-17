@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Python(Django), Kotlin**
-
 - 📫 How to reach me **yaqoubiamina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
